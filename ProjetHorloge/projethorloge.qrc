@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ProjetHorloge">
+        <file alias="quit.png">Images/quit.png</file>
+        <file alias="clock.png">Images/clock.png</file>
+        <file alias="addClock.png">Images/addClock.png</file>
+        <file alias="secVisible.png">Images/secVisible.png</file>
+        <file alias="cross.png">Images/cross.png</file>
+    </qresource>
+</RCC>
